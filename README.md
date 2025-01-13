@@ -115,13 +115,3 @@ You can find the detailed information on the diagram below:
 - **Storage**: Azure Synapse Analytics(if required)
 - **Data Visualization**: PowerBI
 
-<a name="credits"></a>
-## 📋 Credits
-
-- This Project is inspired by the video of the [YouTube Channel "Learn by doing it"](https://www.youtube.com/watch?v=pMqnvXgPKlI&list=PLOlK8ytA0MghGmAAT8W2u7VYmICdzeU5t&index=1&t=96s)  
-
-<a name="contact"></a>
-## 📨 Contact Me
-
-[LinkedIn](https://www.linkedin.com/in/balachandars2022/) •
-[Gmail](balachandar2014elu@gmail.com)  •
